@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rashmi-portfolio-website/static/css/main.5f1a7e75.css",
-    "main.js": "/rashmi-portfolio-website/static/js/main.f9db918d.js",
-    "static/media/rashmi.jpeg": "/rashmi-portfolio-website/static/media/rashmi.fb7fe2bc98b8d8ce8958.jpeg",
-    "index.html": "/rashmi-portfolio-website/index.html",
-    "main.5f1a7e75.css.map": "/rashmi-portfolio-website/static/css/main.5f1a7e75.css.map",
-    "main.f9db918d.js.map": "/rashmi-portfolio-website/static/js/main.f9db918d.js.map"
+    "main.css": "/rashmi.github.io/static/css/main.5f1a7e75.css",
+    "main.js": "/rashmi.github.io/static/js/main.e75af68c.js",
+    "static/media/rashmi.jpeg": "/rashmi.github.io/static/media/rashmi.fb7fe2bc98b8d8ce8958.jpeg",
+    "index.html": "/rashmi.github.io/index.html",
+    "main.5f1a7e75.css.map": "/rashmi.github.io/static/css/main.5f1a7e75.css.map",
+    "main.e75af68c.js.map": "/rashmi.github.io/static/js/main.e75af68c.js.map"
   },
   "entrypoints": [
     "static/css/main.5f1a7e75.css",
-    "static/js/main.f9db918d.js"
+    "static/js/main.e75af68c.js"
   ]
 }
