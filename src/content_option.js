@@ -105,6 +105,26 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/mini-go-game",
     },
     {
+        img: "https://raw.githubusercontent.com/rashmibhaskar/whack-a-mole-game/main/game_screenshot.png",
+        description: "Prompt Engineering GenAI - Whack a Mole Game",
+        link: "https://rashmibhaskar.github.io/whack-a-mole-game/",
+    },
+    {
+        img: "https://raw.githubusercontent.com/rashmibhaskar/road-wallet/main/screenshot.png",
+        description: "Prompt Engineering GenAI - Road Wallet App",
+        link: "https://rashmibhaskar.github.io/road-wallet/",
+    },
+    {
+        img: "https://github.com/rashmibhaskar/scrim-bot/blob/main/Screenshot.png?raw=true",
+        description: "ScrimBot: AI powered chatbot",
+        link: "https://rashmibhaskar.github.io/scrim-bot/",
+    },
+    {
+        img: "https://github.com/rashmibhaskar/auth0-SSO/blob/main/screenshot.png?raw=true",
+        description: "User Login : Single Sign On using Auth0",
+        link: "https://github.com/rashmibhaskar/auth0-SSO/",
+    },
+    {
         img: "https://user-images.githubusercontent.com/92593501/137516457-e67e1897-b592-4b1d-9402-3e863fa2cd16.png",
         description: "Twitter User Scraping - MERN stack",
         link: "https://github.com/rashmibhaskar/MOLA-twitter-app",
@@ -131,6 +151,16 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/Database-CSCI585/tree/main/Assignment_2",
     },
     {
+        img: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/weaviate.png",
+        description: "Vector Based Similarity Search - Weviate",
+        link: "https://github.com/rashmibhaskar/vectorDB-similarity-search",
+    },
+    {
+        img: "https://static.tildacdn.com/tild3764-6663-4639-a631-663238313836/breast_cancer_stages.png",
+        description: "Breast Cancer Diagnosis - Machine Learning",
+        link: "https://github.com/rashmibhaskar/active_passive_learning_based_models",
+    },
+    {
         img: "https://github.com/rashmibhaskar/Database-CSCI585/blob/main/Assignment_3/Screengrabs_Steps3to5/Step5_all.png?raw=true",
         description: "Spatial DB - PostgresQL & ArcGIS",
         link: "https://github.com/rashmibhaskar/Database-CSCI585/tree/main/Assignment_3",
@@ -139,11 +169,6 @@ const dataportfolio = [{
         img: "https://github.com/rashmibhaskar/Database-CSCI585/blob/main/Assignment_4/Q5_query.png?raw=true",
         description: "Spatial DB - MongoDB(NoSQL implementation)",
         link: "https://github.com/rashmibhaskar/Database-CSCI585/tree/main/Assignment_4",
-    },
-    {
-        img: "https://images.squarespace-cdn.com/content/v1/56e1feffd210b81d3c664efb/1569346066734-2NMAKECU19JIV2MAK407/Four+Seasons+Hotel+wedding.jpg?format=2500w",
-        description: "Events Page UX - Parallax Effect",
-        link: "https://rashmibhaskar.github.io/assignment3/mainevents.html",
     },
     {
         img: "https://searchengineland.com/wp-content/seloads/2014/08/google-yahoo1-1920-1536x864.jpg",
@@ -161,14 +186,9 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/inverted-index",
     },
     {
-        img: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/weaviate.png",
-        description: "Vector Based Similarity Search - Weviate",
-        link: "https://github.com/rashmibhaskar/vectorDB-similarity-search",
-    },
-    {
-        img: "https://static.tildacdn.com/tild3764-6663-4639-a631-663238313836/breast_cancer_stages.png",
-        description: "Breast Cancer Diagnosis - Machine Learning",
-        link: "https://github.com/rashmibhaskar/active_passive_learning_based_models",
+        img: "https://images.squarespace-cdn.com/content/v1/56e1feffd210b81d3c664efb/1569346066734-2NMAKECU19JIV2MAK407/Four+Seasons+Hotel+wedding.jpg?format=2500w",
+        description: "Events Page UX - Parallax Effect",
+        link: "https://rashmibhaskar.github.io/assignment3/mainevents.html",
     },
     
 ];
