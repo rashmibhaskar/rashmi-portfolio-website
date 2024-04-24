@@ -100,6 +100,16 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/stock-application",
     },
     {
+        img: "https://images.squarespace-cdn.com/content/v1/5bdfef0a697a98c05dd88ac0/1593297239666-1PI62THW50W6XJ2ORCSH/nhl.jpg?format=2500w",
+        description: "National Hockey League Summary Page - MERN",
+        link: "https://nhl-nine.vercel.app/",
+    },
+    {
+        img: "https://github.com/rashmibhaskar/auth0-SSO/blob/main/screenshot.png?raw=true",
+        description: "User Login : Single Sign On using Auth0",
+        link: "https://github.com/rashmibhaskar/auth0-SSO/",
+    },
+    {
         img: "https://www.rappler.com/tachyon/2021/04/IMHO-China-Go-Game-April-22-2021.jpg?resize=1280%2C720&zoom=1",
         description: "Mini Go Game - AI agent ",
         link: "https://github.com/rashmibhaskar/mini-go-game",
@@ -118,11 +128,6 @@ const dataportfolio = [{
         img: "https://github.com/rashmibhaskar/scrim-bot/blob/main/Screenshot.png?raw=true",
         description: "ScrimBot: AI powered chatbot",
         link: "https://rashmibhaskar.github.io/scrim-bot/",
-    },
-    {
-        img: "https://github.com/rashmibhaskar/auth0-SSO/blob/main/screenshot.png?raw=true",
-        description: "User Login : Single Sign On using Auth0",
-        link: "https://github.com/rashmibhaskar/auth0-SSO/",
     },
     {
         img: "https://user-images.githubusercontent.com/92593501/137516457-e67e1897-b592-4b1d-9402-3e863fa2cd16.png",
