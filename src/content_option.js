@@ -100,9 +100,9 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/stock-application",
     },
     {
-        img: "https://images.squarespace-cdn.com/content/v1/5bdfef0a697a98c05dd88ac0/1593297239666-1PI62THW50W6XJ2ORCSH/nhl.jpg?format=2500w",
-        description: "National Hockey League Summary Page - MERN",
-        link: "https://nhl-nine.vercel.app/",
+        img: "https://github.com/rashmibhaskar/scrim-bot/blob/main/Screenshot.png?raw=true",
+        description: "ScrimBot: AI powered chatbot",
+        link: "https://rashmibhaskar.github.io/scrim-bot/",
     },
     {
         img: "https://github.com/rashmibhaskar/auth0-SSO/blob/main/screenshot.png?raw=true",
@@ -113,31 +113,6 @@ const dataportfolio = [{
         img: "https://www.rappler.com/tachyon/2021/04/IMHO-China-Go-Game-April-22-2021.jpg?resize=1280%2C720&zoom=1",
         description: "Mini Go Game - AI agent ",
         link: "https://github.com/rashmibhaskar/mini-go-game",
-    },
-    {
-        img: "https://raw.githubusercontent.com/rashmibhaskar/whack-a-mole-game/main/game_screenshot.png",
-        description: "Prompt Engineering GenAI - Whack a Mole Game",
-        link: "https://rashmibhaskar.github.io/whack-a-mole-game/",
-    },
-    {
-        img: "https://raw.githubusercontent.com/rashmibhaskar/road-wallet/main/screenshot.png",
-        description: "Prompt Engineering GenAI - Road Wallet App",
-        link: "https://rashmibhaskar.github.io/road-wallet/",
-    },
-    {
-        img: "https://github.com/rashmibhaskar/scrim-bot/blob/main/Screenshot.png?raw=true",
-        description: "ScrimBot: AI powered chatbot",
-        link: "https://rashmibhaskar.github.io/scrim-bot/",
-    },
-    {
-        img: "https://user-images.githubusercontent.com/92593501/137516457-e67e1897-b592-4b1d-9402-3e863fa2cd16.png",
-        description: "Twitter User Scraping - MERN stack",
-        link: "https://github.com/rashmibhaskar/MOLA-twitter-app",
-    },
-    {
-        img: "https://as2.ftcdn.net/v2/jpg/01/50/66/73/1000_F_150667356_sAdivVhhsCLIjvOv5W8YERyZv3QlF0Nx.jpg",
-        description: "3D Maze Space Grid - AI Searching Techniques.",
-        link: "https://github.com/rashmibhaskar/3D-Maze-Space-Searching",
     },
     {
         img: "https://agrio.app/wp-content/uploads/2021/08/Screen-Shot-2021-08-18-at-21.37.53-e1666053603154.png",
@@ -156,14 +131,29 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/Database-CSCI585/tree/main/Assignment_2",
     },
     {
+        img: "https://images.squarespace-cdn.com/content/v1/5bdfef0a697a98c05dd88ac0/1593297239666-1PI62THW50W6XJ2ORCSH/nhl.jpg?format=2500w",
+        description: "National Hockey League Summary Page - MERN",
+        link: "https://nhl-nine.vercel.app/",
+    },
+    {
+        img: "https://github.com/rashmibhaskar/react-pagination/blob/main/ss.png?raw=true",
+        description: "Blog Posts - Pagination",
+        link: "https://github.com/rashmibhaskar/react-pagination",
+    },
+    {
+        img: "https://raw.githubusercontent.com/rashmibhaskar/whack-a-mole-game/main/game_screenshot.png",
+        description: "Prompt Engineering GenAI - Whack a Mole Game",
+        link: "https://rashmibhaskar.github.io/whack-a-mole-game/",
+    },
+    {
+        img: "https://raw.githubusercontent.com/rashmibhaskar/road-wallet/main/screenshot.png",
+        description: "Prompt Engineering GenAI - Road Wallet App",
+        link: "https://rashmibhaskar.github.io/road-wallet/",
+    },
+    {
         img: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/04/weaviate.png",
         description: "Vector Based Similarity Search - Weviate",
         link: "https://github.com/rashmibhaskar/vectorDB-similarity-search",
-    },
-    {
-        img: "https://static.tildacdn.com/tild3764-6663-4639-a631-663238313836/breast_cancer_stages.png",
-        description: "Breast Cancer Diagnosis - Machine Learning",
-        link: "https://github.com/rashmibhaskar/active_passive_learning_based_models",
     },
     {
         img: "https://github.com/rashmibhaskar/Database-CSCI585/blob/main/Assignment_3/Screengrabs_Steps3to5/Step5_all.png?raw=true",
@@ -174,6 +164,16 @@ const dataportfolio = [{
         img: "https://github.com/rashmibhaskar/Database-CSCI585/blob/main/Assignment_4/Q5_query.png?raw=true",
         description: "Spatial DB - MongoDB(NoSQL implementation)",
         link: "https://github.com/rashmibhaskar/Database-CSCI585/tree/main/Assignment_4",
+    },
+    {
+        img: "https://static.tildacdn.com/tild3764-6663-4639-a631-663238313836/breast_cancer_stages.png",
+        description: "Breast Cancer Diagnosis - Machine Learning",
+        link: "https://github.com/rashmibhaskar/active_passive_learning_based_models",
+    },
+    {
+        img: "https://raw.githubusercontent.com/rashmibhaskar/connect-four-game/main/ss.png",
+        description: "Connect Four Game",
+        link: "https://connect-four-game-gamma.vercel.app/",
     },
     {
         img: "https://searchengineland.com/wp-content/seloads/2014/08/google-yahoo1-1920-1536x864.jpg",
@@ -191,11 +191,30 @@ const dataportfolio = [{
         link: "https://github.com/rashmibhaskar/inverted-index",
     },
     {
+        img: "https://user-images.githubusercontent.com/92593501/137516457-e67e1897-b592-4b1d-9402-3e863fa2cd16.png",
+        description: "Twitter User Scraping - MERN stack",
+        link: "https://github.com/rashmibhaskar/MOLA-twitter-app",
+    },
+    {
+        img: "https://as2.ftcdn.net/v2/jpg/01/50/66/73/1000_F_150667356_sAdivVhhsCLIjvOv5W8YERyZv3QlF0Nx.jpg",
+        description: "3D Maze Space Grid - AI Searching Techniques.",
+        link: "https://github.com/rashmibhaskar/3D-Maze-Space-Searching",
+    },
+    // {
+    //     img: "https://images.musement.com/cover/0151/57/thumb_15056983_cover_header.jpeg",
+    //     description: "Inside Burj Al Arab : e-commerce",
+    //     link: "https://insideburjalarab.com/en",
+    // },
+    // {
+    //     img: "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/burj-al-arab-jumeirah/old-content/usp/burj-al-arab-profile-exterior_6-4_landscape.jpg?h=1080&w=1620&modified=20240306105340",
+    //     description: "Jumeirah.com : e-commerce",
+    //     link: "https://www.jumeirah.com/en",
+    // },
+    {
         img: "https://images.squarespace-cdn.com/content/v1/56e1feffd210b81d3c664efb/1569346066734-2NMAKECU19JIV2MAK407/Four+Seasons+Hotel+wedding.jpg?format=2500w",
         description: "Events Page UX - Parallax Effect",
         link: "https://rashmibhaskar.github.io/assignment3/mainevents.html",
-    },
-    
+    },  
 ];
 
 const contactConfig = {
